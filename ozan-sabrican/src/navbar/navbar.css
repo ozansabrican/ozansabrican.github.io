@@ -1,0 +1,25 @@
+.sm-icons{
+    display: flex;
+}
+.sm-icon{
+    height: 30px;
+    margin-left:10px;
+}  
+.navigation {
+    display:flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.link {
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 3px 15px;
+    color: white;
+}
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
